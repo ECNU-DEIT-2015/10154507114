@@ -2,14 +2,14 @@
   
   
 >**一、	网页类型区分**  
-※※※
+  
 >>**Web  app:**     
 ①	淘宝网（http://ai.taobao.com/?pid=mm_26866744_2384196_22160019&unid=）  
 ![Taobao icon](D:\大三上\web教育开发\作业2-webAPP与普通网页)  
 ②	谷歌浏览器  
 ③	维基百科（https://en.wikipedia.org/wiki/Main_Page）  
 ④知乎网（https://www.zhihu.com/topic/19550228/hot）  
- ※※※ 
+  
     
 >>**普通Web 网页：**  
 ①	新浪网（http://www.sina.com.cn/）  
