@@ -42,7 +42,8 @@
   
     
       
-※※※ 
+  
+  
 **二、	功能与需求**  
   
   **1、https://elearning.ecnu.edu.cn**  
