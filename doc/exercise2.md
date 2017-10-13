@@ -76,7 +76,7 @@
   
 >>**优点2**:将相关元素，如bb主页、帖子、更新、我的成绩、日程表等都放置在我的信息的下拉菜单里面，使用户能够最快地“猜测”出想要的信息在哪里  
     
-<img width="500" height="200" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/2.png"/>  
+<img width="500" height="600" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/2.png"/>  
 
 >>**缺点1**:改变了惯用话语，“资源”这个模块本身会使学生觉得是一些课程PPT或是课外学习视频以及课程工具，但打开一些是一个没有被开发的不清楚的界面  
   
@@ -96,21 +96,21 @@
  >**2、https://piazza.com**  
  >>**优点1**:当没有内容显示时，没有只留下空白面板，而是借助一些引导语，显得不会过于干瘪。  
    
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/6.png)  
+<img width="400" height="250" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/6.png"/>  
   
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/7.png)  
+<img width="400" height="250" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/7.png"/>  
   
 >>**优点2**:对于比较重要且核心的功能按钮用颜色进行标注，使学习者快速就注意到； 
   
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/8.png)  
+<img width="400" height="250" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/8.png"/>  
   
 >>**优点3**:加载较快，并且在加载的过程中，会出现相关提示来告诉用户现在在干什么，不会出现用户一直点击却不知道平台是否响应的情况；  
   
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/9.png)  
+<img width="400" height="250" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/9.png"/>  
   
  >>**缺点**:会有一些不清楚的东西在平台上，还有一些广告之类的消息，建议网站更加简约；  
    
- ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/10.png)  
+ <img width="400" height="250" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/10.png"/>  
    
    **另外，piazza平台主要就专注于发帖与查帖的交互功能，极其简洁的界面设计与功能也十分符合学习者的视觉感官与使用体验。**  
    
