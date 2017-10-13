@@ -56,7 +56,7 @@
 ④教师可以分阶段性的设置任务，并在整个项目完成过程中随时查看学生的个人进度，并针对不同学生的进度提出不同的指导意见，因材施教。  
   
     
-  **1、https://piazza.com**  
+  **2、https://piazza.com**  
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/lingyig.jpg)  
 >从上述分析中，可以看出：  
 >>①	piazza网站的一个主要的功能是作为一个学习社区，供学习者发帖与回复帖子；  
