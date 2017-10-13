@@ -72,9 +72,9 @@
   >**1、https://elearning.ecnu.edu.cn**  
 >>**优点1**:将一些常用的按钮如“我的机构”、“课程”、 “我的信息”以及“注销”按钮设置在人眼视线比较关注的右上角;  
   
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/1.png)  
+![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/1.png)[1.png](URL =10*10)  
   
-**优点2**:将相关元素，如bb主页、帖子、更新、我的成绩、日程表等都放置在我的信息的下拉菜单里面，使用户能够最快地“猜测”出想要的信息在哪里  
+>>**优点2**:将相关元素，如bb主页、帖子、更新、我的成绩、日程表等都放置在我的信息的下拉菜单里面，使用户能够最快地“猜测”出想要的信息在哪里  
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/2.png)  
   
@@ -82,11 +82,11 @@
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/3.png)  
   
-**缺点2**:当没有内容可以显示时，在空白区域没有放置引导信息，显得干瘪，用户不知道该干嘛，缺乏用户友好性与交互性  
+>>**缺点2**:当没有内容可以显示时，在空白区域没有放置引导信息，显得干瘪，用户不知道该干嘛，缺乏用户友好性与交互性  
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/4.png)  
   
-**缺点3**:将所有的课程直接随机展示，没有一定的规律，学生难以快速找到所需课程；并且除了资源共享之外，还有成绩、作业等很多板块，比较杂；建议将每个学年的课程进行分类，更人性化，同时精简功能;  
+>>**缺点3**:将所有的课程直接随机展示，没有一定的规律，学生难以快速找到所需课程；并且除了资源共享之外，还有成绩、作业等很多板块，比较杂；建议将每个学年的课程进行分类，更人性化，同时精简功能;  
 
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/5.png)  
   
@@ -100,15 +100,15 @@
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/7.png)  
   
-**优点2**:对于比较重要且核心的功能按钮用颜色进行标注，使学习者快速就注意到； 
+>>**优点2**:对于比较重要且核心的功能按钮用颜色进行标注，使学习者快速就注意到； 
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/8.png)  
   
-**优点3**:加载较快，并且在加载的过程中，会出现相关提示来告诉用户现在在干什么，不会出现用户一直点击却不知道平台是否响应的情况；  
+>>**优点3**:加载较快，并且在加载的过程中，会出现相关提示来告诉用户现在在干什么，不会出现用户一直点击却不知道平台是否响应的情况；  
   
 ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/9.png)  
   
- **缺点**:会有一些不清楚的东西在平台上，还有一些广告之类的消息，建议网站更加简约；  
+ >>**缺点**:会有一些不清楚的东西在平台上，还有一些广告之类的消息，建议网站更加简约；  
    
  ![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/10.png)  
    
