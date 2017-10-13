@@ -72,7 +72,8 @@
   >**1、https://elearning.ecnu.edu.cn**  
 >>**优点1**:将一些常用的按钮如“我的机构”、“课程”、 “我的信息”以及“注销”按钮设置在人眼视线比较关注的右上角;  
   
-![image width="5" height="5"](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/1.png) 
+![image width="5" height="5"](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/1.png)  
+<img width="150" height="150" src="https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/1.png"/>  
   
 >>**优点2**:将相关元素，如bb主页、帖子、更新、我的成绩、日程表等都放置在我的信息的下拉菜单里面，使用户能够最快地“猜测”出想要的信息在哪里  
   
