@@ -76,7 +76,7 @@
   
 >>**优点2**:将相关元素，如bb主页、帖子、更新、我的成绩、日程表等都放置在我的信息的下拉菜单里面，使用户能够最快地“猜测”出想要的信息在哪里  
   
-![image](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/2.png)  
+![image width="5" height="5"](https://github.com/ECNU-DEIT-2015/10154507114/blob/master/image/exercise2image/2.png)  
   
 >>**缺点1**:改变了惯用话语，“资源”这个模块本身会使学生觉得是一些课程PPT或是课外学习视频以及课程工具，但打开一些是一个没有被开发的不清楚的界面  
   
